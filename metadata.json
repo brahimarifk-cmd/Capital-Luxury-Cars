@@ -1,0 +1,6 @@
+{
+  "name": "Capital Luxury Cars",
+  "description": "منصة تأجير واستثمار أسطول السيارات الرياضية الفاخرة مع باقات VIP والمهام اليومية وسحب الأرباح.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
